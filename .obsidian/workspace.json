@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "b87749634b9856d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdd5cf35407b684c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f3cb79e4733be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "c64444d79a265448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introdução/Origem do Android.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Origem do Android"
+            }
+          },
+          {
+            "id": "1808ac79f5817696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introdução/Guia de Kotlin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guia de Kotlin"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6c02b14045d0804",
+    "type": "split",
+    "children": [
+      {
+        "id": "850a36f8beb485e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9504ed201281d36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "0fe9fad8aca3573b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "d0a0ec3e7c085856",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2198c7f47404da32",
+    "type": "split",
+    "children": [
+      {
+        "id": "b246799cfe99a44e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28d2d41d81e3e244",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Introdução/Origem do Android.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Origem do Android"
+            }
+          },
+          {
+            "id": "f78fdec6d2b2a2a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Introdução/Origem do Android.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Origem do Android"
+            }
+          },
+          {
+            "id": "3419f4b8ca242fc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9922f0ecef15cc63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Introdução/Origem do Android.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Origem do Android"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c9504ed201281d36",
+  "lastOpenFiles": [
+    "1. Introdução/Origem do Android.md",
+    "1. Introdução/Functions.md",
+    "1. Introdução/Guia de Kotlin.md",
+    "astronvim-commands-pt.md",
+    "astro_nvim.md.md",
+    "2. Código",
+    "README.md",
+    "1. Introdução"
+  ]
+}
