@@ -287,3 +287,9 @@ for ((index, valor) in frutas.withIndex()) {
 5. **Expressividade**: Use when e if como expressões para código mais limpo
 
 Este guia cobre os fundamentos essenciais do Kotlin com exemplos práticos e explicações detalhadas. Para aprofundar seu conhecimento, pratique os conceitos em projetos reais e consulte a documentação oficial do Kotlin.
+
+
+
+![[Pasted image 20241114231304.png]]
+
+

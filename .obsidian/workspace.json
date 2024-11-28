@@ -8,49 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42f3cb79e4733be6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "c64444d79a265448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introdução/Origem do Android.md",
+                "file": "Control Flow/kotlin-when-statement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Origem do Android"
+              "title": "kotlin-when-statement"
             }
           },
           {
-            "id": "1808ac79f5817696",
+            "id": "6ed67191e068f379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "1. Introdução/Guia de Kotlin.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Guia de Kotlin"
+              "title": "Release Notes 1.7.7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,15 +174,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c9504ed201281d36",
+  "active": "c64444d79a265448",
   "lastOpenFiles": [
     "1. Introdução/Origem do Android.md",
+    "Control Flow/kotlin-when-statement.md",
+    "1. Introdução/Heranca_Kotlin.md",
+    "1. Introdução/Dataclass.md",
+    "Pasted image 20241114231304.png",
+    "NVIM",
+    "Control Flow",
+    "1. Introdução/kotlin-vararg-functions.md",
+    "1. Introdução/kotlin-generics-explanation.md",
+    "1. Introdução/kotlin-classes-explanation.md",
+    "1. Introdução/kotlin-null-safety.md",
+    "1. Introdução/kotlin-variables.md",
+    "1. Introdução/kotlin-infix-functions.md",
+    "1. Introdução/Functions Introduction.md",
     "1. Introdução/Functions.md",
-    "1. Introdução/Guia de Kotlin.md",
-    "astronvim-commands-pt.md",
-    "astro_nvim.md.md",
-    "2. Código",
     "README.md",
+    "1. Introdução/Controle de Fluxo.md",
+    "1. Introdução/Guia de Kotlin.md",
+    "NVIM/astronvim-commands-pt.md",
+    "NVIM/astro_nvim.md.md",
+    "2. Código",
     "1. Introdução"
   ]
 }
