@@ -13,24 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Flow/kotlin-when-statement.md",
+                "file": "Lógica de Programação/Tema 3 - Movimentos de Peças de Xadrez.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kotlin-when-statement"
+              "title": "Tema 3 - Movimentos de Peças de Xadrez"
             }
           },
           {
-            "id": "6ed67191e068f379",
+            "id": "b8f8d553dedc0d0e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "New tab"
             }
           }
         ]
@@ -52,10 +50,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -166,19 +165,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "c64444d79a265448",
   "lastOpenFiles": [
-    "1. Introdução/Origem do Android.md",
+    "Lógica de Programação/Tema 3 - Movimentos de Peças de Xadrez.md",
+    "Lógica de Programação/fundamentos_logica.md",
+    "Lógica de Programação/Fundamentos da Lógica de Programação.md",
+    "Pasted image 20250228000816.png",
+    "Lógica de Programação",
+    "Lógica de Programação com C.md",
+    "Algoritmos e Programação - Ebook/Algoritmo.md",
+    "Unimed/A história do Cooperativismo.md",
+    "Unimed Cursos/A história do Cooperativismo.md",
+    "Cursos",
+    "Unimed",
+    "Unimed Cursos",
+    "Lógica de Programação -  Boson Treinamentos/Variaveis.md",
+    "Algoritmos e Programação - Ebook",
+    "Lógica de Programação -  Boson Treinamentos/Tipos de Dados.md",
+    "1. Introdução/Guia de Kotlin.md",
+    "Lógica de Programação -  Boson Treinamentos",
+    "Untitled.md",
+    "NVIM/astronvim-commands-pt.md",
+    "NVIM/astro_nvim.md.md",
     "Control Flow/kotlin-when-statement.md",
     "1. Introdução/Heranca_Kotlin.md",
+    "README.md",
+    "1. Introdução/Origem do Android.md",
     "1. Introdução/Dataclass.md",
     "Pasted image 20241114231304.png",
     "NVIM",
@@ -191,11 +211,6 @@
     "1. Introdução/kotlin-infix-functions.md",
     "1. Introdução/Functions Introduction.md",
     "1. Introdução/Functions.md",
-    "README.md",
-    "1. Introdução/Controle de Fluxo.md",
-    "1. Introdução/Guia de Kotlin.md",
-    "NVIM/astronvim-commands-pt.md",
-    "NVIM/astro_nvim.md.md",
     "2. Código",
     "1. Introdução"
   ]
